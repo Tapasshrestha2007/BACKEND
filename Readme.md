@@ -1,4 +1,10 @@
-#learning to Code
+#Making an Backend app
 
-lol
-s
+packages used:
+Dotenv
+Experess
+Mongoose
+
+Day 1 ✓
+
+
